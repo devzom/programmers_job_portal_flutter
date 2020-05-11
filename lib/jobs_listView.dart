@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'job_api.dart';
 import 'job_model.dart';
 

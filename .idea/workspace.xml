@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5558a55a-cf65-4716-8e0f-880a3818696f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jobs_listView.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/jobs_listView.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
