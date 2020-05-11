@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5558a55a-cf65-4716-8e0f-880a3818696f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jobs_listView.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/jobs_listView.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MobiQe_app" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -59,6 +58,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1060" y="460" width="440" height="828" key="FileChooserDialogImpl" timestamp="1589197462241">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1060" y="460" width="440" height="828" key="FileChooserDialogImpl/-1920.207.1920.1050/0.0.2560.1410@0.0.2560.1410" timestamp="1589197462241" />
     <state width="1875" height="473" key="GridCell.Tab.0.bottom" timestamp="1589194809442">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
